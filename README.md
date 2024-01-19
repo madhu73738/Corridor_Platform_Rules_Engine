@@ -1,2 +1,2 @@
 # Corridor_Platform_Rules_Engine
-Rule_Builder(Editor)
+Rules-editor branch hold the GUI while Rule-engine branch holds the rule engine at work.
